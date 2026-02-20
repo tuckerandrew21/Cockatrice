@@ -1,5 +1,17 @@
 <p align='center'><img src=https://cloud.githubusercontent.com/assets/9874850/7516775/b00b8e36-f4d1-11e4-8da4-3df294d01f86.png></p>
 
+> **This is a personal fork of [Cockatrice/Cockatrice](https://github.com/Cockatrice/Cockatrice) for bug fixes and contributions.**
+>
+> | Remote | URL |
+> |--------|-----|
+> | `origin` | https://github.com/tuckerandrew21/Cockatrice |
+> | `upstream` | https://github.com/Cockatrice/Cockatrice |
+>
+> To stay current with the original repo:
+> ```bash
+> git fetch upstream && git merge upstream/master
+> ```
+
 ---
 
 <p align='center'>
